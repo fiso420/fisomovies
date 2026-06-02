@@ -6,6 +6,12 @@ Modern Movie & Anime Streaming Web App
 
 ---
 
+## 📥 Download
+
+[⬇️ Download Latest APK](https://github.com/fiso420/fisomovies/releases/tag/v1.0)
+
+---
+
 ## 📸 Screenshots
 
 ### Home Page
