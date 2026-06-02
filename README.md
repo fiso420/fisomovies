@@ -9,25 +9,34 @@ Modern Movie & Anime Streaming Web App
 ## 📸 Screenshots
 
 ### Home Page
-photo_6_2026-06-02_22-59-24.jpg
-photo_7_2026-06-02_22-59-24.jpg
-photo_8_2026-06-02_22-59-24.jpg
+
+![Home 1](photo_6_2026-06-02_22-59-24.jpg)
+
+![Home 2](photo_7_2026-06-02_22-59-24.jpg)
+
+![Home 3](photo_8_2026-06-02_22-59-24.jpg)
 
 ### Movies
-photo_9_2026-06-02_22-59-24.jpg
+
+![Movies](photo_9_2026-06-02_22-59-24.jpg)
 
 ### Anime Hub
-photo_10_2026-06-02_22-59-24.jpg
-photo_12_2026-06-02_22-59-24.jpg
-photo_14_2026-06-02_22-59-24.jpg
+
+![Anime 1](photo_10_2026-06-02_22-59-24.jpg)
+
+![Anime 2](photo_12_2026-06-02_22-59-24.jpg)
+
+![Anime 3](photo_14_2026-06-02_22-59-24.jpg)
 
 ### Search
-photo_13_2026-06-02_22-59-24.jpg
+
+![Search](photo_13_2026-06-02_22-59-24.jpg)
 
 ### Video Player
-photo_14_2026-06-02_22-59-24.jpg
-photo_16_2026-06-02_22-59-24.jpg
 
+![Player 1](photo_14_2026-06-02_22-59-24.jpg)
+
+![Player 2](photo_16_2026-06-02_22-59-24.jpg)
 ---
 
 ## ✨ Features
