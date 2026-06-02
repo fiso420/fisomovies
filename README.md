@@ -9,19 +9,24 @@ Modern Movie & Anime Streaming Web App
 ## 📸 Screenshots
 
 ### Home Page
-(Add Home Screenshot Here)
+photo_6_2026-06-02_22-59-24.jpg
+photo_7_2026-06-02_22-59-24.jpg
+photo_8_2026-06-02_22-59-24.jpg
 
 ### Movies
-(Add Movies Screenshot Here)
+photo_9_2026-06-02_22-59-24.jpg
 
 ### Anime Hub
-(Add Anime Screenshot Here)
+photo_10_2026-06-02_22-59-24.jpg
+photo_12_2026-06-02_22-59-24.jpg
+photo_14_2026-06-02_22-59-24.jpg
 
 ### Search
-(Add Search Screenshot Here)
+photo_13_2026-06-02_22-59-24.jpg
 
 ### Video Player
-(Add Player Screenshot Here)
+photo_14_2026-06-02_22-59-24.jpg
+photo_16_2026-06-02_22-59-24.jpg
 
 ---
 
@@ -72,4 +77,4 @@ If you like this project, please give it a Star ⭐
 
 ## 👨‍💻 Developer
 
-Created by Fiso420
+Created by FISO TANVIR
