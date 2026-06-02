@@ -84,6 +84,19 @@ If you like this project, please give it a Star ⭐
 
 ---
 
+## 🌐 Official Links
+
+📢 Telegram Channel  
+[Join Telegram](https://t.me/+Xkhmsk_SioxmMjA9)
+
+📘 Facebook Page  
+[Follow on Facebook](https://www.facebook.com/profile.php?id=61575329324296)
+
+💻 GitHub Repository  
+[View Source Code](https://github.com/fiso420/fisomovies)
+
+---
+
 ## 👨‍💻 Developer
 
 Created by FISO TANVIR
